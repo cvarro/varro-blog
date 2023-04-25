@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Varro.ai</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>My personal musings</description>
+      <language>en-us</language>
+      <managingEditor>chris.varro@varro.ai (Chris Varro)</managingEditor>
+      <webMaster>chris.varro@varro.ai (Chris Varro)</webMaster>
+      <lastBuildDate>Tue, 08 Mar 2016 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/code/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/archive/code-sample</guid>
+    <title>Sample .md file</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/archive/code-sample</link>
+    <description>Example of a markdown file with code blocks and syntax highlighting</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>chris.varro@varro.ai (Chris Varro)</author>
+    <category>markdown</category><category>code</category><category>features</category>
+  </item>
+
+    </channel>
+  </rss>

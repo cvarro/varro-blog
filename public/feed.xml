@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Varro.ai</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>My personal musings</description>
+      <language>en-us</language>
+      <managingEditor>chris.varro@varro.ai (Chris Varro)</managingEditor>
+      <webMaster>chris.varro@varro.ai (Chris Varro)</webMaster>
+      <lastBuildDate>Wed, 19 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/doublespeak</guid>
+    <title>Decoding Doublespeak</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/doublespeak</link>
+    <description>Uncovering Hidden Meanings</description>
+    <pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
+    <author>chris.varro@varro.ai (Chris Varro)</author>
+    <category>leadership</category><category>mental models</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/inversion</guid>
+    <title>The Art of Inversion</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/inversion</link>
+    <description>Flipping Perspective to Achieve Success</description>
+    <pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
+    <author>chris.varro@varro.ai (Chris Varro)</author>
+    <category>leadership</category><category>mental models</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/bottleneck</guid>
+    <title>Focus on the Bottleneck</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/bottleneck</link>
+    <description>The Theory of Constraints</description>
+    <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+    <author>chris.varro@varro.ai (Chris Varro)</author>
+    <category>leadership</category><category>mental models</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/faustian-bargin</guid>
+    <title>The Cautionary Tale of the Faustian Bargain</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/faustian-bargin</link>
+    <description>Weighing Short-Term Gains Against Long-Term Costs</description>
+    <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+    <author>chris.varro@varro.ai (Chris Varro)</author>
+    <category>leadership</category><category>mental models</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/preference-falsification</guid>
+    <title>The Veil of Preference Falsification</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/preference-falsification</link>
+    <description>Understanding the Gap Between Public and Private Opinions</description>
+    <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+    <author>chris.varro@varro.ai (Chris Varro)</author>
+    <category>leadership</category><category>mental models</category>
+  </item>
+
+    </channel>
+  </rss>
