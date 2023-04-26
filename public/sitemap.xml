@@ -53,10 +53,6 @@
   </url>
 
   <url>
-    <loc>https://varro.ai/tags/code</loc>
-  </url>
-
-  <url>
     <loc>https://varro.ai/tags/feature</loc>
   </url>
 
@@ -65,15 +61,19 @@
   </url>
 
   <url>
+    <loc>https://varro.ai/tags/code</loc>
+  </url>
+
+  <url>
     <loc>https://varro.ai/tags/github</loc>
   </url>
 
   <url>
-    <loc>https://varro.ai/tags/guide</loc>
+    <loc>https://varro.ai/tags/images</loc>
   </url>
 
   <url>
-    <loc>https://varro.ai/tags/images</loc>
+    <loc>https://varro.ai/tags/guide</loc>
   </url>
 
   <url>
