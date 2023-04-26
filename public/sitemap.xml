@@ -1,124 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/about</loc>
+    <loc>https://varro.ai/about</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog</loc>
+    <loc>https://varro.ai/blog</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app</loc>
+    <loc>https://varro.ai</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/projects</loc>
+    <loc>https://varro.ai/projects</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags</loc>
+    <loc>https://varro.ai/tags</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/bottleneck</loc>
+    <loc>https://varro.ai/blog/mental-models/bottleneck</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/doublespeak</loc>
+    <loc>https://varro.ai/blog/mental-models/doublespeak</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/faustian-bargin</loc>
+    <loc>https://varro.ai/blog/mental-models/faustian-bargin</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/inversion</loc>
+    <loc>https://varro.ai/blog/mental-models/inversion</loc>
   </url>
 
   <url>
-    <loc
-      >https://tailwind-nextjs-starter-blog.vercel.app/blog/mental-models/preference-falsification</loc
-    >
+    <loc>https://varro.ai/blog/mental-models/preference-falsification</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/book</loc>
+    <loc>https://varro.ai/tags/book</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/business</loc>
+    <loc>https://varro.ai/tags/business</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/canada</loc>
+    <loc>https://varro.ai/tags/canada</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/code</loc>
+    <loc>https://varro.ai/tags/code</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/feature</loc>
+    <loc>https://varro.ai/tags/feature</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/features</loc>
+    <loc>https://varro.ai/tags/features</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/github</loc>
+    <loc>https://varro.ai/tags/github</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/guide</loc>
+    <loc>https://varro.ai/tags/guide</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/holiday</loc>
+    <loc>https://varro.ai/tags/images</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/images</loc>
+    <loc>https://varro.ai/tags/holiday</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/leadership</loc>
+    <loc>https://varro.ai/tags/leadership</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/markdown</loc>
+    <loc>https://varro.ai/tags/markdown</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/math</loc>
+    <loc>https://varro.ai/tags/math</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/mental-models</loc>
+    <loc>https://varro.ai/tags/mental-models</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/multi-author</loc>
+    <loc>https://varro.ai/tags/multi-author</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/next-js</loc>
+    <loc>https://varro.ai/tags/next-js</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/ols</loc>
+    <loc>https://varro.ai/tags/ols</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/reflection</loc>
+    <loc>https://varro.ai/tags/reflection</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/tailwind</loc>
+    <loc>https://varro.ai/tags/tailwind</loc>
   </url>
 
   <url>
-    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/writings</loc>
+    <loc>https://varro.ai/tags/writings</loc>
   </url>
 </urlset>

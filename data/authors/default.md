@@ -36,6 +36,17 @@ My main strengths include team leadership, exceptional communication between tec
 | Software Engineering Manager, GMAC RFC | _December 2001 - November 2007_ |
 | | |
 
+## Case Studies, Awards, & Mentions
+
+| | |
+| --------------------------- | ---------------------------- |
+| Homepoint sets data in motion to streamline loan processing | <a target="_blank" rel="noopener noreferrer" href="/static/images/Homepoint_Microsoft_case-study.pdf">Microsoft Case Study</a> |
+| Streamline Loan Processing with Confluent | <a target="_blank" rel="noopener noreferrer" href="/tatic/images/20211006-CS-Homepoint.pdf">Confluent Case Study</a> |
+| Modern cloud engineering increases savings for mortgages | <a target="_blank" rel="noopener noreferrer" href="/static/images/Modern_cloud_engineering-kinandcarta.com.pdf">Kin+Carta Case Study</a> |
+| HousingWire - Tech Predictions for 2023 | <a target="_blank" rel="noopener noreferrer" href="/static/images/tech-predictions-for-2023-Housingwire.com.pdf">Mention</a> |
+| Homepoint - TECH 100 award winner | <a target="_blank" rel="noopener noreferrer" href="/static/images/Homepoint-HousingWire.pdf">Award</a> |
+| | |
+
 ## Education
 
 Bachelers of Science in Computer Science with distinction  
