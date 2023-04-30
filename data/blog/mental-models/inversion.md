@@ -4,7 +4,12 @@ date: '2023-04-12'
 tags: ['leadership', 'mental models']
 draft: false
 summary: Flipping Perspective to Achieve Success
+imgSrc: '/static/images/flipping-perspective@0.1x.png'
+imgHeight: 153
+ImgWidth: 272
 ---
+
+![Flipping](/static/images/flipping-perspective@0.1x.png)
 
 ## Flipping Perspective to Achieve Success
 

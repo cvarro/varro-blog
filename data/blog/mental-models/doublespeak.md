@@ -4,7 +4,12 @@ date: '2023-04-19'
 tags: ['leadership', 'mental models']
 draft: false
 summary: Uncovering Hidden Meanings
+imgSrc: '/static/images/War-is-peace@0.1x.png'
+imgHeight: 153
+ImgWidth: 272
 ---
+
+![doublespeak](/static/images/War-is-peace@0.1x.png)
 
 ## Uncovering Hidden Meanings
 

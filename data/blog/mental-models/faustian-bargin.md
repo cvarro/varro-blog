@@ -4,7 +4,12 @@ date: '2023-03-29'
 tags: ['leadership', 'mental models']
 draft: false
 summary: Weighing Short-Term Gains Against Long-Term Costs
+imgSrc: '/static/images/deal-with-devil@0.1x.png'
+imgHeight: 153
+ImgWidth: 272
 ---
+
+![Flipping](/static/images/deal-with-devil@0.1x.png)
 
  ## Weighing Short-Term Gains Against Long-Term Costs
 

@@ -1,6 +1,7 @@
 import Link from '@/components/Link'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
+import Image from '@/components/Image'
 import { useState } from 'react'
 import Pagination from '@/components/Pagination'
 import formatDate from '@/lib/utils/formatDate'
@@ -50,7 +51,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
         <ul>
           {!filteredBlogPosts.length && 'No posts found.'}
           {displayPosts.map((frontMatter) => {
-            const { slug, date, title, summary, tags } = frontMatter
+            const { slug, date, title, summary, tags, imgSrc, imgHeight, ImgWidth } = frontMatter
             return (
               <li key={slug} className="py-4">
                 <article className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
@@ -70,6 +71,17 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                       <div className="prose max-w-none text-gray-500 dark:text-gray-400">
                         {summary}
                       </div>
+                      {imgSrc && (
+                        <div className="prose max-w-none text-gray-500 dark:text-gray-400">
+                          <Image
+                            alt={title}
+                            src={imgSrc}
+                            className="object-cover object-center md:h-36 lg:h-48"
+                            width={ImgWidth}
+                            height={imgHeight}
+                          />
+                        </div>
+                      )}
                     </div>
                     <div className="flex flex-wrap">
                         {tags.map((tag) => (

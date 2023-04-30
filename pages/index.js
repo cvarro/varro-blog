@@ -4,6 +4,8 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
+import Image from '@/components/Image'
+
 
 import NewsletterForm from '@/components/NewsletterForm'
 
@@ -31,7 +33,7 @@ export default function Home({ posts }) {
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
           {!posts.length && 'No posts found.'}
           {posts.slice(0, MAX_DISPLAY).map((frontMatter) => {
-            const { slug, date, title, summary, tags } = frontMatter
+            const { slug, date, title, summary, tags, imgSrc, imgHeight, ImgWidth } = frontMatter
             return (
               <li key={slug} className="py-12">
                 <article>
@@ -56,6 +58,17 @@ export default function Home({ posts }) {
                           <div className="prose max-w-none text-gray-500 dark:text-gray-400">
                             {summary}
                           </div>
+                          {imgSrc && (
+                            <div className="prose max-w-none text-gray-500 dark:text-gray-400">
+                              <Image
+                                alt={title}
+                                src={imgSrc}
+                                className="object-cover object-center md:h-36 lg:h-48"
+                                width={ImgWidth}
+                                height={imgHeight}
+                              />
+                            </div>
+                          )}
                         </div>
                         <div className="flex flex-wrap">
                             {tags.map((tag) => (
