@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>chris.varro@varro.ai (Chris Varro)</managingEditor>
       <webMaster>chris.varro@varro.ai (Chris Varro)</webMaster>
-      <lastBuildDate>Wed, 19 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 30 Apr 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://varro.ai/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://varro.ai/blog/wrong-answers</guid>
+    <title>Wrong Answers</title>
+    <link>https://varro.ai/blog/wrong-answers</link>
+    <description>Why Are You Doing This?</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>chris.varro@varro.ai (Chris Varro)</author>
+    <category>leadership</category>
+  </item>
+
   <item>
     <guid>https://varro.ai/blog/mental-models/doublespeak</guid>
     <title>Decoding Doublespeak</title>
